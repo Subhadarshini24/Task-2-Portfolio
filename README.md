@@ -27,4 +27,4 @@ portfolio/
 
 ## 🔗 Live Preview
 
-Click here to view the live site
+Click here to view the live site : https://subhadarshini24.github.io/Task-2-Portfolio/
